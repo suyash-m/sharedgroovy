@@ -1,4 +1,4 @@
-imprt src.org.sam.groov.*
+imprt src.org.sam.groov
 def call(){
 
 echo 'Loading pipeline definition'
