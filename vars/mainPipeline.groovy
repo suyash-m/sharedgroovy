@@ -1,4 +1,5 @@
 imprt src.org.sam.groov
+node{
 def call(){
 
 echo 'Loading pipeline definition'
@@ -11,6 +12,7 @@ switch(pipelinetype) {
     javaPipeline pipelineDefinition
    break;
 
+}
 }
 }
 
